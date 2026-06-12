@@ -48,9 +48,8 @@ Timeline rule (red-team #2): do **not** say "decade." The defensible phrasing is
 > consultant advising one.
 >
 > He holds ⚠️[earned certifications, exactly as listed on Credly] and is currently
-> progressing toward ⚠️[in-progress certifications]. He teaches at Skunkworks Academy
-> ⚠️(include only after the naming/trademark question is resolved) and publishes on
-> identity and platform security at tobilobaadeyemo.com.
+> progressing toward ⚠️[in-progress certifications]. He publishes on identity and
+> platform security at tobilobaadeyemo.com.
 >
 > Contact: tobiloba@tobilobaadeyemo.com ⚠️(create this mailbox first).
 

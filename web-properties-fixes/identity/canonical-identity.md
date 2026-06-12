@@ -57,8 +57,8 @@ completions as certs is exactly the inflation pattern the audit flagged.
       2014–2015. Delete "Control & Compliance Engineering" framing here and on the site.
 - [ ] **Open to work** → Cloud Security / IAM roles only; remove Data Analyst,
       Communications Specialist, Marketing Specialist, Digital Strategist.
-- [ ] Remove "Cybersecurity-Conscious Campaign Management" skill from the creative roles
-      (Raptview, Skunkworks entries).
+- [ ] Remove "Cybersecurity-Conscious Campaign Management" skill from the creative-role
+      entries (Raptview and the other creative/marketing positions).
 - [ ] Account for 2016–2019: add the real history or align the site's dates to LinkedIn.
 - [ ] Certifications section → mirror the Earned list above exactly.
 - [ ] **Verify your identity** (free LinkedIn ID verification badge) — real trust signal.
@@ -76,7 +76,5 @@ Also from the red-team list, when you get there:
   history; you can make the truthful version dominant fast).
 - Multi-year domain registration + registrar lock + auto-renew on tobilobaadeyemo.com —
   the whole `sameAs` spine hangs off it.
-- Keep skunkworks.africa OUT of the `sameAs` array until the trademark/name question is
-  resolved (the prepared schema already omits it).
 - Verify which press pieces are genuine editorial before citing them anywhere structured
   (Wikidata references especially).

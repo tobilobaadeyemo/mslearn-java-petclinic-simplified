@@ -1,4 +1,4 @@
-# GitHub hygiene checklist — tobilobaadeyemo + skunkworks-academy org
+# GitHub hygiene checklist — tobilobaadeyemo
 
 ## Personal account (`tobilobaadeyemo`)
 
@@ -15,18 +15,6 @@
       content. An empty public repo under a security banner reads as abandonment.
 - [ ] **Bio & links:** set GitHub bio to `Cloud Security Engineer | Founder, Raptview Labs`,
       website to `https://www.tobilobaadeyemo.com`, avatar to the canonical headshot.
-
-## skunkworks-academy org — ⚠️ confirm ownership first
-
-Your personal profile links org `@skunkworks`, not `@skunkworks-academy`. If the latter
-is actually yours:
-
-- [ ] ~25 public repos show empty/"error while loading" states. **Archive or make private**
-      every dead/empty repo — a half-built public org damages the academy's credibility.
-- [ ] For the genuinely public-facing repos (`lms`, `CompTIA`, `security`, `labs`):
-      add a README (what it is, who it's for) and a LICENSE each.
-- [ ] Note the standing [DECISION]: the Skunkworks trademark/name-collision question
-      should be resolved before investing more in this org's public presence.
 
 ## Substance track (from the red-team review — entity signals don't survive first technical contact without this)
 

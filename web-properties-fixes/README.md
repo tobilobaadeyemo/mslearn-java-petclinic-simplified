@@ -5,10 +5,12 @@ Generated 2026-06-12 from the audit fix spec and revamp plan. This kit contains 
 can only be done in a platform dashboard ([DASH]) or needs a human decision ([DECISION]).
 
 > **Why these are files and not applied changes:** this session only has write access to
-> this one GitHub repository. The WordPress theme (tobilobaadeyemo.com), the Shopify theme
-> (skunkworks.africa), and the other GitHub repos (`tobilobaadeyemo/tobilobaadeyemo`,
-> `ZenDay-AI-Guard`, `cri-assessment-tool`) are not reachable from here. Everything below
-> is prepared so each fix is a copy-paste or a 2-minute dashboard task.
+> this one GitHub repository. The WordPress theme (tobilobaadeyemo.com) and the other
+> GitHub repos (`tobilobaadeyemo/tobilobaadeyemo`, `ZenDay-AI-Guard`,
+> `cri-assessment-tool`) are not reachable from here. Everything below is prepared so
+> each fix is a copy-paste or a 2-minute dashboard task.
+>
+> **Scope note:** everything skunkworks-related is excluded from this kit by request.
 
 ## Contents
 
@@ -19,7 +21,6 @@ can only be done in a platform dashboard ([DASH]) or needs a human decision ([DE
 | `tobilobaadeyemo.com/person-schema.jsonld` | JSON-LD Person schema (entity plan Phase 1) | WP header inject |
 | `tobilobaadeyemo.com/about-page-copy.md` | Canonical bios (50/100/250 words) for About/#person page | WP page |
 | `tobilobaadeyemo.com/dead-links-fix.md` | Every `#` link and what to wire it to (P2) | Elementor |
-| `skunkworks.africa/theme-fixes.md` | AdSense removal, placeholder text, typo, partner logos | Shopify theme editor |
 | `github/profile-README.md` | Profile README, ready to publish | new repo `tobilobaadeyemo/tobilobaadeyemo` |
 | `github/zenday-ai-guard/README.md` | README scaffold (TODOs marked) | `ZenDay-AI-Guard` repo |
 | `github/zenday-ai-guard/LICENSE` | MIT license, ready as-is | `ZenDay-AI-Guard` repo |
@@ -36,14 +37,12 @@ can only be done in a platform dashboard ([DASH]) or needs a human decision ([DE
 **P0 — decisions (no code until these are made):**
 - One title everywhere. The revamp plan locks this: **Cloud Security Engineer** (see `identity/canonical-identity.md`).
 - Collapse the overlapping LinkedIn roles, restate the Skye Bank role, split certs into Earned vs In-Progress.
-- Skunkworks naming/trademark review before further investment in the brand.
 
 **P1 — trust signals:**
 - Replace placeholder testimonials and demo client logos (WP admin) — or delete the sections.
-- Replace blank partner SVGs on skunkworks.africa; surface the real CompTIA Delivery Partner status.
 - Fix or remove the broken newsletter form.
 
-**P2 — polish:** dead links, footer, SEO meta, Shopify placeholders/typo, GitHub hygiene.
+**P2 — polish:** dead links, footer, SEO meta, GitHub hygiene.
 
 **Phase 1 entity work (after P0 convergence only):** inject `person-schema.jsonld`, publish the About page, standardize Credly URL, LinkedIn ID verification, `tobiloba@tobilobaadeyemo.com` mailbox.
 

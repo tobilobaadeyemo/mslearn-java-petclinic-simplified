@@ -44,5 +44,4 @@ https://wa.me/27630672211?text=Hi%20Tobiloba%2C%20I%27d%20like%20to%20book%20the
 
 ## Also standardize the number everywhere
 Once verified, make the phone number byte-identical in: site header, booking links,
-footer (if present), LinkedIn contact info, skunkworks.africa contact page, and any
-business listings.
+footer (if present), LinkedIn contact info, and any business listings.

@@ -1,0 +1,26 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://www.tobilobaadeyemo.com/#person",
+  "name": "Tobiloba Adeyemo",
+  "jobTitle": "Cloud Security Engineer",
+  "description": "Founder and systems operator turned cloud security engineer. Building and running ventures across Africa, now focused on identity and platform security.",
+  "url": "https://www.tobilobaadeyemo.com/",
+  "image": "https://www.tobilobaadeyemo.com/TODO-canonical-headshot.jpg",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Raptview Labs"
+  },
+  "knowsAbout": [
+    "Cloud Security",
+    "Identity and Access Management",
+    "Cloud Platform Security"
+  ],
+  "sameAs": [
+    "https://www.linkedin.com/in/tobilobaadeyemo",
+    "https://github.com/tobilobaadeyemo",
+    "https://www.credly.com/users/TODO-canonical-credly-url"
+  ]
+}
+</script>
